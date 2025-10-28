@@ -6,6 +6,8 @@
 
 Users can upload MP3, WAV, or MP4 files, listen to the audio, view a live transcript, and download the final transcription as a `.txt` file. The system is optimized for performance using the Faster Whisper model with caching.
 
+Try the live app here: [Simple Audio Transcriber](https://simple-audio-transcriber.streamlit.app/)
+
 ## Approach
 
 1. Audio Extraction & Preprocessing
